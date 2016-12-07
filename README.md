@@ -13,4 +13,4 @@ The type of suspicious site: ex. “Malicious site”
 List ISP/Organization that hosts the domain: ex. Affinity Internet, Inc
 
 
-Please create the code to do this work and provide a link to the code in a public github
+Please create the code to do this work and provide a link to the code in a public github.
